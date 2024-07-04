@@ -3,6 +3,9 @@
 
 This project, undertaken by the "Matrix Minds" group, was part of Professor Nipun Batra's machine learning course. The goal was to develop a text generation model using neural networks. Our main objective was to build and optimize a basic neural network architecture capable of predicting the next characters based on previous sequences (block size). The model's parameters, such as embedding size and block size, can be customized through the accompanying Streamlit application.
 
+## Streamlit Application Link:-
+[Text Generation Model](https://text-generator-matrixmind0.streamlit.app/)
+
 ## Table of Contents
 
 - [Project Overview](#project-overview)
